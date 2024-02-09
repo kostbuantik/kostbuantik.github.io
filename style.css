@@ -123,6 +123,8 @@ body {
 
      .hero >* {
         display: block;
+        color: whitesmoke;
+        -webkit-text-stroke: black 0.5px;
     }
 
     .hero {
